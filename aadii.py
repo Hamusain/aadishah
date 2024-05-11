@@ -1,1 +1,3 @@
-import aaddii
+import os
+os.system('git pull')
+import adx
